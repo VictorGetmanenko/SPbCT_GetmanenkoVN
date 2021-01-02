@@ -1,0 +1,5 @@
+F:\repos\Lab14\Debug\Lab14.MyForm.resources
+F:\repos\Lab14\Debug\Lab14.vcxproj.GenerateResource.cache
+F:\repos\Lab14\Debug\Lab14.exe
+F:\repos\Lab14\Debug\Lab14.pdb
+F:\repos\Lab14\Debug\Lab14.vcxprojAssemblyReference.cache
