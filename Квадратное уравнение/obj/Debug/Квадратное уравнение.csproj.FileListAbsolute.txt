@@ -1,0 +1,10 @@
+C:\Users\Виктор\source\repos\Квадратное уравнение\bin\Debug\Квадратное уравнение.exe.config
+C:\Users\Виктор\source\repos\Квадратное уравнение\bin\Debug\Квадратное уравнение.exe
+C:\Users\Виктор\source\repos\Квадратное уравнение\bin\Debug\Квадратное уравнение.pdb
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное уравнение.csproj.AssemblyReference.cache
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное_уравнение.Form1.resources
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное_уравнение.Properties.Resources.resources
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное уравнение.csproj.GenerateResource.cache
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное уравнение.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное уравнение.exe
+C:\Users\Виктор\source\repos\Квадратное уравнение\obj\Debug\Квадратное уравнение.pdb

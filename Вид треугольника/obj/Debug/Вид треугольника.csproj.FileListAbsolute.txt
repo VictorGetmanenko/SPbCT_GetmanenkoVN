@@ -1,0 +1,10 @@
+C:\Users\Виктор\source\repos\Вид треугольника\bin\Debug\Вид треугольника.exe.config
+C:\Users\Виктор\source\repos\Вид треугольника\bin\Debug\Вид треугольника.exe
+C:\Users\Виктор\source\repos\Вид треугольника\bin\Debug\Вид треугольника.pdb
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид треугольника.csproj.AssemblyReference.cache
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид_треугольника.Form1.resources
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид_треугольника.Properties.Resources.resources
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид треугольника.csproj.GenerateResource.cache
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид треугольника.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид треугольника.exe
+C:\Users\Виктор\source\repos\Вид треугольника\obj\Debug\Вид треугольника.pdb
